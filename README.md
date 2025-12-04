@@ -1,6 +1,6 @@
-# Raspagem de Dados - Curso DSM
+# Raspagem de Dados
 
-Script para fazer raspagem de informações sobre o curso Desenvolvimento de Software Multiplataforma.
+Script para fazer raspagem de informações.
 
 ## Instalação
 
